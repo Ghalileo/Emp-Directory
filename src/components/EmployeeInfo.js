@@ -2,6 +2,7 @@ import React from "react";
 
 function EmployeeInfo(props) {
   return (
+    
     <table className="table">
         <thead>
             <tr>

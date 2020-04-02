@@ -9,7 +9,7 @@ import API from "../utils/API";
 
 class EmployeeData extends Component {
   state = {
-    result: {},
+    result: [],
     search: ""
   };
 
@@ -18,9 +18,11 @@ class EmployeeData extends Component {
     this.searchEmployees("Joseph");
   }
 
-  searchEmployees = query => {
-    API.getUsers(query)
-      .then(res => this.setState({ result: res.data }))
+  searchEmployees = () => {
+    API.getUsers()
+      .then(res => {console.log(res);
+        this.setState(
+          { result: res.data.results })})
       .catch(err => console.log(err));
   };
 
@@ -69,6 +71,7 @@ class EmployeeData extends Component {
           </Col>
         </Row>
       </Container>
+      
     );
   }
 }
