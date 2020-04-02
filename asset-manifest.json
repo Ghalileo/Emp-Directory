@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Ghalileo/Emp-Directory/static/js/main.e1711642.chunk.js",
+    "main.js.map": "/Ghalileo/Emp-Directory/static/js/main.e1711642.chunk.js.map",
+    "runtime-main.js": "/Ghalileo/Emp-Directory/static/js/runtime-main.0a892a94.js",
+    "runtime-main.js.map": "/Ghalileo/Emp-Directory/static/js/runtime-main.0a892a94.js.map",
+    "static/js/2.1c0f955e.chunk.js": "/Ghalileo/Emp-Directory/static/js/2.1c0f955e.chunk.js",
+    "static/js/2.1c0f955e.chunk.js.map": "/Ghalileo/Emp-Directory/static/js/2.1c0f955e.chunk.js.map",
+    "index.html": "/Ghalileo/Emp-Directory/index.html",
+    "precache-manifest.af512ac66677b6b9938ab154de92658b.js": "/Ghalileo/Emp-Directory/precache-manifest.af512ac66677b6b9938ab154de92658b.js",
+    "service-worker.js": "/Ghalileo/Emp-Directory/service-worker.js",
+    "static/js/2.1c0f955e.chunk.js.LICENSE.txt": "/Ghalileo/Emp-Directory/static/js/2.1c0f955e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a892a94.js",
+    "static/js/2.1c0f955e.chunk.js",
+    "static/js/main.e1711642.chunk.js"
+  ]
+}
