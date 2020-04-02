@@ -1,14 +1,14 @@
 import React from "react";
 
-function Table() {
-return (
+function EmployeeInfo(props) {
+  return (
     <table className="table">
         <thead>
             <tr>
-                <th scope = "col">Name</th>
-                <th scope = "col">Position</th>
-                <th scope = "col">EmployeeNumber</th>
-                <th scope = "col">email</th>
+                <th scope = "col">Name: {props.name}</th>
+                <th scope = "col">Position: {props.position}</th>
+                <th scope = "col">EmployeeNumber: {props.number}</th>
+                <th scope = "col">email: {props.email}</th>
             </tr>
         </thead>
         <tbody>
@@ -32,7 +32,7 @@ return (
             </tr>
         </tbody>
     </table>
-)
+  );
 }
 
-export default Table;
+export default EmployeeInfo;
