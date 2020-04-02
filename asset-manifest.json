@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/Ghalileo/Emp-Directory/static/js/main.e1711642.chunk.js",
-    "main.js.map": "/Ghalileo/Emp-Directory/static/js/main.e1711642.chunk.js.map",
-    "runtime-main.js": "/Ghalileo/Emp-Directory/static/js/runtime-main.0a892a94.js",
-    "runtime-main.js.map": "/Ghalileo/Emp-Directory/static/js/runtime-main.0a892a94.js.map",
-    "static/js/2.1c0f955e.chunk.js": "/Ghalileo/Emp-Directory/static/js/2.1c0f955e.chunk.js",
-    "static/js/2.1c0f955e.chunk.js.map": "/Ghalileo/Emp-Directory/static/js/2.1c0f955e.chunk.js.map",
-    "index.html": "/Ghalileo/Emp-Directory/index.html",
-    "precache-manifest.af512ac66677b6b9938ab154de92658b.js": "/Ghalileo/Emp-Directory/precache-manifest.af512ac66677b6b9938ab154de92658b.js",
-    "service-worker.js": "/Ghalileo/Emp-Directory/service-worker.js",
-    "static/js/2.1c0f955e.chunk.js.LICENSE.txt": "/Ghalileo/Emp-Directory/static/js/2.1c0f955e.chunk.js.LICENSE.txt"
+    "main.js": "/Emp-Directory/static/js/main.e1711642.chunk.js",
+    "main.js.map": "/Emp-Directory/static/js/main.e1711642.chunk.js.map",
+    "runtime-main.js": "/Emp-Directory/static/js/runtime-main.cb9ac8cc.js",
+    "runtime-main.js.map": "/Emp-Directory/static/js/runtime-main.cb9ac8cc.js.map",
+    "static/js/2.1c0f955e.chunk.js": "/Emp-Directory/static/js/2.1c0f955e.chunk.js",
+    "static/js/2.1c0f955e.chunk.js.map": "/Emp-Directory/static/js/2.1c0f955e.chunk.js.map",
+    "index.html": "/Emp-Directory/index.html",
+    "precache-manifest.cda45ac98993c42efa8f57dcd8c6e7e6.js": "/Emp-Directory/precache-manifest.cda45ac98993c42efa8f57dcd8c6e7e6.js",
+    "service-worker.js": "/Emp-Directory/service-worker.js",
+    "static/js/2.1c0f955e.chunk.js.LICENSE.txt": "/Emp-Directory/static/js/2.1c0f955e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0a892a94.js",
+    "static/js/runtime-main.cb9ac8cc.js",
     "static/js/2.1c0f955e.chunk.js",
     "static/js/main.e1711642.chunk.js"
   ]
